@@ -4,17 +4,16 @@ To develop a website to display details about the places around my house.
 
 # Design Steps:
 ## Step 1
+Create a html file in visual studio code.
 
 ## Step 2
+Create the adjacent html files to be linked.
 
 ## Step 3
+Link all the html files to the main html file
 
 
-# Code:
-
-
-
-# Output: 
+## Code:
 
 # Image-Mapping.html
 ```html
